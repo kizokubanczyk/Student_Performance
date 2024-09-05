@@ -9,10 +9,10 @@ def run() -> None:
     X, Y = clean_data.clean_data(dataFrame)
 
     x_train, x_test, y_train, y_test = train_test_split.split_dataFrame(X, Y)
-    lr = train_model.train(x_train, y_train)
-    score = check_model.check(lr, x_test, y_test)
-    print(score)
 
+    lr = train_model.train(x_train, y_train)
+
+    check_model.check(lr, x_test, y_test)
 
 if __name__ == "__main__":
     run()
