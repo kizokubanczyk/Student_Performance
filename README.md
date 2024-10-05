@@ -26,7 +26,7 @@ The dataset used in this project is the **Student Performance Dataset**, which c
 
 ## Objective
 
-The main objective of this project is to build a predictive model that can estimate student performance based on the provided features. By understanding the factors that influence academic success, educators and policymakers can implement strategies to support students more effectively.
+The main objective of this project is to build a predictive model that can estimate student performance based on the provided features
 
 ## Methodology
 
