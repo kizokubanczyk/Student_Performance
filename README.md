@@ -22,7 +22,7 @@ The following variables were utilized in the project:
 - **F1 Score**: The harmonic mean of precision and recall, providing a balance between the two metrics, especially in imbalanced datasets.
 
 ## Scatter Plot of Model Predictions
-![ResNet-18](https://github.com/kizokubanczyk/student_Performance/blob/main/scores/LinearRegression_plot.png)
+(https://github.com/kizokubanczyk/student_Performance/blob/main/scores/LinearRegression_plot.png)
 
 ## Requirements
 
