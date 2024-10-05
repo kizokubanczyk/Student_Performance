@@ -21,6 +21,9 @@ The following variables were utilized in the project:
 - **Recall:** Indicates how well the model identifies all positive samples, computed as true positives divided by the total of true positives and false negatives.
 - **F1 Score**: The harmonic mean of precision and recall, providing a balance between the two metrics, especially in imbalanced datasets.
 
+## Scatter Plot of Model Predictions
+https://github.com/kizokubanczyk/student_Performance/blob/main/scores/LinearRegression_plot.png
+
 ## Requirements
 
 To run the project, the following libraries are required:
