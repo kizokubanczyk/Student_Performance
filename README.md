@@ -14,7 +14,7 @@ The following variables were utilized in the project:
 - **Sleep Hours**: The average number of hours of sleep per day, which can influence concentration and academic performance.
 - **Sample Question Papers Practiced**: The number of practice papers that students worked on before exams.
 - **Performance Index**: An index representing the overall score of the student.
-- 
+
 ## Used Evaluation Metrics
 - **Accuracy:** The ratio of correctly classified samples to the total number of samples, indicating the model's overall effectiveness.
 - **Precision:** Measures the accuracy in identifying positive examples, calculated as true positives divided by the total of true positives and false positives.
