@@ -2,7 +2,7 @@
 
 ## Project Objective
 
-The objective of this project is to predict students' academic performance based on various factors influencing their educational outcomes. The analysis utilizes data on study hours, previous scores, extracurricular activities, sleep hours, and the number of sample question papers practiced.
+The objective of this project is to predict students' academic performance based on various factors influencing their educational outcomes. The analysis utilizes data on study hours, previous scores, extracurricular activities, sleep hours, and the number of sample question papers practiced. The purpose of this project is to analyze and predict the academic performance of students using multiple linear regression techniques. The dataset used for this project contains various attributes that potentially influence student performance, such as demographic information, grades in previous subjects, and other relevant factors.
 
 ## Used Variables
 
