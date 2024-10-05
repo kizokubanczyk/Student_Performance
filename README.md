@@ -15,10 +15,6 @@ The following variables were utilized in the project:
 - **Sample Question Papers Practiced**: The number of practice papers that students worked on before exams.
 - **Performance Index**: An index representing the overall score of the student.
 
-## Methodology
-
-The project employs multiple linear regression analysis to predict the **Performance Index** based on the mentioned variables. The data was divided into training and testing sets to evaluate the model's accuracy.
-
 ## Requirements
 
 To run the project, the following libraries are required:
