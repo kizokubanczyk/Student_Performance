@@ -24,7 +24,7 @@ The following variables were utilized in the project:
 ## Scatter Plot of Model Predictions
 ![plot](https://github.com/kizokubanczyk/student_Performance/blob/main/scores/LinearRegression_plot.png)
 
-##score
+## Score
 accuracy: 0.9889832909573145
 
 ## Requirements
